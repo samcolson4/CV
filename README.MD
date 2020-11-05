@@ -10,7 +10,7 @@ In my time at the Confederation of British Industry (CBI), I brought a more data
 
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
-| **Final project**            | An app to do some AR stuff 🤞                     | Swift, ARKit, RealityKit, Xcode XCTest |
+| **Final project**            | An app to do some AR stuff 🤞                     | Swift, ARKit, RealityKit, Xcode, XCTest |
 
 
 
