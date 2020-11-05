@@ -1,6 +1,6 @@
 ## Sam Colson
 
-I am a recent convert to software development following a succesful career in public affairs. I decided that I wanted to spend more time pursuing my interest in building new systems than I did working for large corporates where my achievements were less tangible.
+I am a recent convert to software development following a succesful career in public affairs. I decided that I wanted to spend more time pursuing my interest in building new systems than I did working in a role where my achievements were less tangible.
 
 In my time at the Confederation of British Industry (CBI), I brought a more data-focussed approach to the organisation's campaigning activity through the introduction of a stakeholder database. At Hilton, where my role covered over 70 countries and territories across Europe, the Middle East and Africa, I again used data to prioritise our activity. These were always the most interesting parts of the job and I realised that if I wanted to have a greater sense of satisfaction from my work, I needed to change careers to become a developer.
 
@@ -10,14 +10,14 @@ In my time at the Confederation of British Industry (CBI), I brought a more data
 
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
-| **Final project**            | A webapp to do x.                      | React, Jest, etc. |
-| **colsonsdesign.com**        | A personal website, currently in development. You can view progress on the site's [GitHub repo](https://github.com/samcolson4/colsondesign). | Ruby, Ruby on rails, HTML, CSS |
+| **Final project**            | An app to do some AR stuff 🤞                     | Swift, ARKit, RealityKit, Xcode XCTest |
+
 
 
 ## Experience
 
 **Freelancer** (March 2020 - August 2020)  
-- Working alongside technology firms to develop their public affairs strategies.
+- Working alongside firms to develop their public affairs strategies.
 - Creating pitch decks for and bringing my in-house experience to a public affairs agency.
 
 **Hilton** (May 2019 - March 2020)   
@@ -67,6 +67,7 @@ _Makers Academy is a coding bootcamp, designed to support career switchers with 
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Swift
 
 #### University of Bath (September 2013 - June 2016)  
 - Politics and International Relations: BSc(Hons)
