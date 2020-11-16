@@ -50,7 +50,7 @@ _Parliamentary Assistant_
 
 #### Teamwork
 
-I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joinging up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
+I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joining up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
 
 #### Innovation
 
