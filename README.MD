@@ -1,6 +1,6 @@
 ## Sam Colson
 
-I am a recent convert to software development following a succesful career in public affairs. I decided that I wanted to spend more time pursuing my interest in building new systems than I did working in a role where my achievements were less tangible.
+I am a recent convert to software development following a successful  career in public affairs. I decided that I wanted to spend more time pursuing my interest in building new systems than I did working in a role where my achievements were less tangible.
 
 In my time at the Confederation of British Industry (CBI), I brought a more data-focussed approach to the organisation's campaigning activity through the introduction of a stakeholder database. At Hilton, where my role covered over 70 countries and territories across Europe, the Middle East and Africa, I again used data to prioritise our activity. These were always the most interesting parts of the job and I realised that if I wanted to have a greater sense of satisfaction from my work, I needed to change careers to become a developer.
 
