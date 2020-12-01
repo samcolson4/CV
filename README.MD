@@ -1,16 +1,16 @@
 ## Sam Colson
 
-I am a recent convert to software development following a successful  career in public affairs. I decided that I wanted to spend more time pursuing my interest in building new systems than I did working in a role where my achievements were less tangible.
+I decided to change careers and become a developer to be part of a team building something new, shaping a product that ultimately makes a genuine difference to peoples' lives.
 
-In my time at the Confederation of British Industry (CBI), I brought a more data-focussed approach to the organisation's campaigning activity through the introduction of a stakeholder database. At Hilton, where my role covered over 70 countries and territories across Europe, the Middle East and Africa, I again used data to prioritise our activity. These were always the most interesting parts of the job and I realised that if I wanted to have a greater sense of satisfaction from my work, I needed to change careers to become a developer.
+I recently completed a three month Makers Bootcamp where I taught myself Ruby, JavaScript and Swift by building a range of applications and websites. In my previous roles, I always pushed myself to learn more and to take ownership in as many areas as possible. I want to bring this attitude and my experience from Makers to my next role, building an outstanding product with clean, well-tested code, whilst continuing to develop my own engineering skills.
 
-[LinkedIn](https://www.linkedin.com/in/samcolson/)
+[View my LinkedIn profile here.](https://www.linkedin.com/in/samcolson/)
 
 ## Projects
 
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
-| **Final project**            | An app to do some AR stuff 🤞                     | Swift, ARKit, RealityKit, Xcode, XCTest |
+| Signposts AR          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw)                    | Swift, ARKit, RealityKit, Xcode, XCTest |
 
 
 
