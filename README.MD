@@ -10,7 +10,7 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
-| Signposts AR          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw)                    | Swift, ARKit, RealityKit, Xcode, XCTest |
+| Signposts AR          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw).                    | Swift, ARKit, RealityKit, Xcode, XCTest |
 
 
 
