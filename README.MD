@@ -83,5 +83,5 @@ _Makers Academy is a coding bootcamp, designed to support career switchers with 
 - Open Water Diver: PADI certified.
 
 ## Interests  
-- I use Logic Pro X to produce music (none of which is particularly listenable!) and have done since my early teens. Recently, I have started expirmenting with the [SuperCollider](https://supercollider.github.io) audio software platform to combine my coding knowledge with my music.
+- I use Logic Pro X to produce music (none of which is particularly listenable!) and have done since my early teens. Recently, I have started experimenting with the [SuperCollider](https://supercollider.github.io) audio software platform to combine my coding knowledge with my music.
 - I run regularly and have previously competed in a half marathon to raise funds for Parkinson's UK.
