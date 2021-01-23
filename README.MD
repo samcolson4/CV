@@ -11,14 +11,17 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
 | Signposts AR          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw).                    | Swift, ARKit, RealityKit, Xcode, XCTest |
-
+| Acebook                         | A clone of popular social networking site, incorporating user authentication, likes, profile pages and comments per post.                            | Ruby on Rails, JavaScript, SCSS, RSpec        |
+| colsondesign                         | My personal website, built to showcase my projects and give some more colour to my CV.                          | Vue.js, Vuetify |
 
 
 ## Experience
 
-**Freelancer** (March 2020 - August 2020)  
+**Freelance Consultant** (March 2020 - Present)  
+- Consulting on the development of a start-up from both a political and technological viewpoint. This includes writing user stories, advising on website UI / UX and developing the database structure.
 - Working alongside firms to develop their public affairs strategies.
 - Creating pitch decks for and bringing my in-house experience to a public affairs agency.
+- During this period I also attended Makers, a software engineering bootcamp.
 
 **Hilton** (May 2019 - March 2020)   
 _Government Affairs Manager, Europe, Middle East and Africa (EMEA)_
@@ -65,13 +68,14 @@ I am always looking for new ways of working and how best to improve a business's
 _Makers Academy is a coding bootcamp, designed to support career switchers with some prior knowledge of programming to become job-ready junior developers._
 - OOP, TDD, MVC, DDD
 - Agile/XP
+- Git
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - Swift
 
 #### University of Bath (September 2013 - June 2016)  
 - Politics and International Relations: BSc(Hons)
-- 2:1
+- 2.1 degree awarded.
 - At the University of Bath, I focussed my studies on the British political system. For my dissertation, I used SPSS to quantitatively analyse the 2015 election.
 - During my time at university, I interned with a number of companies in public affairs roles and worked for a political party.
 
@@ -84,4 +88,5 @@ _Makers Academy is a coding bootcamp, designed to support career switchers with 
 
 ## Interests  
 - I use Logic Pro X to produce music (none of which is particularly listenable!) and have done since my early teens. Recently, I have started experimenting with the [SuperCollider](https://supercollider.github.io) audio software platform to combine my coding knowledge with my music.
+- I love to cook and am using the extended lockdown period to improve my knowledge by buying far too many recipe books.
 - I run regularly and have previously competed in a half marathon to raise funds for Parkinson's UK.
