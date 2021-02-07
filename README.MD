@@ -5,9 +5,7 @@ I decided to change careers and become a developer to be part of a team building
 
 I recently completed a three month Makers Bootcamp where I taught myself Ruby, JavaScript and Swift by building a range of applications and websites. In my previous roles, I always pushed myself to learn more and to take ownership in as many areas as possible. I want to bring this attitude and my experience from Makers to my next role, building an outstanding product with clean, well-tested code, whilst continuing to develop my own engineering skills.
 
-[LinkedIn](https://www.linkedin.com/in/samcolson/)
-
-[Personal website](http://www.colsondesign.com)
+[LinkedIn](https://www.linkedin.com/in/samcolson/) | [Personal website](http://www.colsondesign.com)
 
 ## Projects
 
@@ -21,7 +19,7 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 ## Skills
 
 #### Problem solving
-During my time at Makers, I considerably improved my problem solving skills.
+During my time at Makers, I considerably improved my problem solving skills. One example of this is my ability to trace errors in code, looking diligently through logs and error messages to find the issue. My strategy of getting visibility and making the loop and smaller as I problem solve also enables me to track down more difficult bugs, understanding the program as a whole, rather than just an individual piece. I put this into practice on all of my projects, but particularly those that rely on reaching out to databases or APIs, where external data can sometimes cause unforseen issues.
 
 #### Teamwork
 I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joining up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
