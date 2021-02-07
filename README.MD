@@ -1,10 +1,12 @@
-## Sam Colson
+# Sam Colson
+## Full Stack Software Developer
 
 I decided to change careers and become a developer to be part of a team building something new, shaping a product that ultimately makes a genuine difference to peoples' lives.
 
 I recently completed a three month Makers Bootcamp where I taught myself Ruby, JavaScript and Swift by building a range of applications and websites. In my previous roles, I always pushed myself to learn more and to take ownership in as many areas as possible. I want to bring this attitude and my experience from Makers to my next role, building an outstanding product with clean, well-tested code, whilst continuing to develop my own engineering skills.
 
-[View my LinkedIn profile here.](https://www.linkedin.com/in/samcolson/)
+[LinkedIn](https://www.linkedin.com/in/samcolson/)
+[Personal website](http://www.colsondesign.com)
 
 ## Projects
 
@@ -15,14 +17,26 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 | [colsondesign](https://github.com/samcolson4/colson-design-v3)                         | My personal website, built to showcase my projects and give some more colour to my CV.                          | Vue.js, Vuetify |
 | [react-catan](https://github.com/samcolson4/react-catan) | A Settlers of Catan map generator. | React, JavaScript, HTML, CSS |
 
+## Skills
+
+#### Teamwork
+
+I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joining up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
+
+#### Innovation
+
+I am always looking for new ways of working and how best to improve a business's offering. At the CBI, I:
+- Developed a new stakeholder database to ensure meetings and engagement across a large, multi-region organisation was kept in check.
+- Used readership and click-through metrics to inform changes being made to commnunications products.
+- Evolved the organisation's communication with membership by increasing the use of data, translating complicated ideas into straightforward messages.
+
 
 ## Experience
 
 **Freelance Consultant** (March 2020 - Present)  
-- Consulting on the development of a start-up from both a political and technological viewpoint. This includes writing user stories, advising on website UI / UX and developing the database structure.
+- Consulting on the development of a start-up from both a political and technological viewpoint. 
+- Writing user stories, advising on website UI / UX and developing the database structure.
 - Working alongside firms to develop their public affairs strategies.
-- Creating pitch decks for and bringing my in-house experience to a public affairs agency.
-- During this period I also attended Makers, a software engineering bootcamp.
 
 **Hilton** (May 2019 - March 2020)   
 _Government Affairs Manager, Europe, Middle East and Africa (EMEA)_
@@ -44,25 +58,6 @@ _Account Executive_
 - Initiating and developing a new internship programme. My work covered the recruitment process as well as line management of interns.
 - Winner of the 2017 Grayling ‘Creating Advantage’ award, a global internal competition assessing who has best delivered for clients in the business.
 
-
-**Office of Rt Hon. Mel Stride MP** (October 2014 - May 2016)  
-_Parliamentary Assistant_
-- Designing the template for a monthly email update sent to constituents.
-
-
-## Skills
-
-#### Teamwork
-
-I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joining up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
-
-#### Innovation
-
-I am always looking for new ways of working and how best to improve a business's offering. At the CBI, I:
-- Developed a new stakeholder database to ensure meetings and engagement across a large, multi-region organisation was kept in check.
-- Used readership and click-through metrics to inform changes being made to commnunications products.
-- Evolved the organisation's communication with membership by increasing the use of data, translating complicated ideas into straightforward messages.
-
 ## Education
 
 #### Makers Academy (August 2020 - November 2020)  
@@ -78,7 +73,6 @@ _Makers Academy is a coding bootcamp, designed to support career switchers with 
 - Politics and International Relations: BSc(Hons)
 - 2.1 degree awarded.
 - At the University of Bath, I focussed my studies on the British political system. For my dissertation, I used SPSS to quantitatively analyse the 2015 election.
-- During my time at university, I interned with a number of companies in public affairs roles and worked for a political party.
 
 #### Exeter School (September 2005 - July 2012)  
 - A-Levels: Politics (A), Economics (B), Classical Civilizations (B)
