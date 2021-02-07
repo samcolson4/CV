@@ -10,9 +10,10 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 
 | Name                         | Description                            | Tech/tools        |
 | ---------------------------- | -----------------                      | ----------------- |
-| Signposts AR          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw).                    | Swift, ARKit, RealityKit, Xcode, XCTest |
-| Acebook                         | A clone of popular social networking site, incorporating user authentication, likes, profile pages and comments per post.                            | Ruby on Rails, JavaScript, SCSS, RSpec        |
-| colsondesign                         | My personal website, built to showcase my projects and give some more colour to my CV.                          | Vue.js, Vuetify |
+| [Signposts AR](https://github.com/samcolson4/signposts-AR)          | An iOS app for placing and viewing entities in Augmented Reality, linking their GeoLocation to a map. A demo video can be found [here](https://www.youtube.com/watch?v=Crr90faZCcw).                    | Swift, ARKit, RealityKit, Xcode, XCTest |
+| [Acebook](https://github.com/samcolson4/acebook-team-rex)                         | A clone of popular social networking site, incorporating user authentication, likes, profile pages and comments per post.                            | Ruby on Rails, JavaScript, SCSS, RSpec        |
+| [colsondesign](https://github.com/samcolson4/colson-design-v3)                         | My personal website, built to showcase my projects and give some more colour to my CV.                          | Vue.js, Vuetify |
+| [react-catan](https://github.com/samcolson4/react-catan) | A Settlers of Catan map generator | React, JavaScript, HTML, CSS |
 
 
 ## Experience
