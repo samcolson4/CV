@@ -1,11 +1,12 @@
 # Sam Colson
-## Full Stack Software Developer
+# Full Stack Software Developer
 
 I decided to change careers and become a developer to be part of a team building something new, shaping a product that ultimately makes a genuine difference to peoples' lives.
 
 I recently completed a three month Makers Bootcamp where I taught myself Ruby, JavaScript and Swift by building a range of applications and websites. In my previous roles, I always pushed myself to learn more and to take ownership in as many areas as possible. I want to bring this attitude and my experience from Makers to my next role, building an outstanding product with clean, well-tested code, whilst continuing to develop my own engineering skills.
 
 [LinkedIn](https://www.linkedin.com/in/samcolson/)
+
 [Personal website](http://www.colsondesign.com)
 
 ## Projects
@@ -19,12 +20,13 @@ I recently completed a three month Makers Bootcamp where I taught myself Ruby, J
 
 ## Skills
 
-#### Teamwork
+#### Problem solving
+During my time at Makers, I considerably improved my problem solving skills.
 
+#### Teamwork
 I have always enjoyed working as part of a larger team to help achieve a shared objective. At Hilton, I set myself the objective of joining up the activity of the Government Affairs deparment more closely with that of the PR and communications function. This meant keeping them updated on our public-facing plans whilst working together to identify joint opportunities. This led to us publicising more widely the business's activity in Apprenticeship Week with both the UK Government and in the media, gaining coverage and building relationships with key stakeholders in a way that would not have happened were it done in a silo.
 
 #### Innovation
-
 I am always looking for new ways of working and how best to improve a business's offering. At the CBI, I:
 - Developed a new stakeholder database to ensure meetings and engagement across a large, multi-region organisation was kept in check.
 - Used readership and click-through metrics to inform changes being made to commnunications products.
