@@ -27,7 +27,7 @@ I have always enjoyed working as part of a larger team to help achieve a shared 
 #### Innovation
 I am always looking for new ways of working and how best to improve a business's offering. At the CBI, I:
 - Developed a new stakeholder database to ensure meetings and engagement across a large, multi-region organisation was kept in check.
-- Used readership and click-through metrics to inform changes being made to commnunications products.
+- Used readership and click-through metrics to inform changes being made to communications products.
 - Evolved the organisation's communication with membership by increasing the use of data, translating complicated ideas into straightforward messages.
 
 
